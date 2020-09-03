@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://www.flaticon.com/free-icon/facebook_124010
+[2.2]: https://github.com/Ciro-Gallo/Ciro-Gallo/blob/master/img/facebook-social.png
 
 <!-- Links to your social media accounts -->
 
