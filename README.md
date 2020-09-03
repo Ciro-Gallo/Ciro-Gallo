@@ -19,18 +19,25 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-[![Twitter][1.2]][1]
-[![LinkedIn][2.2]][2].
+[![Facebook][1.2]][1]
+[![Instagram][2.2]][2]
+[![Youtube][3.2]][3]
+[![Linkedin][4.2]][4]
+
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://github.com/Ciro-Gallo/Ciro-Gallo/blob/master/img/facebook-social.png
+[1.2]: https://github.com/Ciro-Gallo/Ciro-Gallo/blob/master/img/facebook-social.png
+[2.2]: https://github.com/Ciro-Gallo/Ciro-Gallo/blob/master/img/instagram-social.png
+[3.2]: https://github.com/Ciro-Gallo/Ciro-Gallo/blob/master/img/youtube-social.png
+[4.2]: https://github.com/Ciro-Gallo/Ciro-Gallo/blob/master/img/linkedin-social.png
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
+[1]: https://www.facebook.com/CiroGalloEDU/
+[2]: https://www.instagram.com/ciro.gal/
+[3]: https://www.youtube.com/channel/UCYouDmkieWuAV_jRVf_TjBQ
+[4]: https://www.linkedin.com/in/ciro-gallo-bb628a1ab/
 
 <br><hr>
 
