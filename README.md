@@ -23,16 +23,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-JUnit-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=2196f3)
+![](https://img.shields.io/badge/Framework-Hibernate-informational?style=flat&logo=Java&logoColor=white&color=2196f3)
+![](https://img.shields.io/badge/Framework-JUnit-informational?style=flat&logo=Java&logoColor=white&color=2196f3)
 
-![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=ff9800)
+![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=ff9800)
+![](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=ff9800)
+![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=ff9800)
 
-![](https://img.shields.io/badge/Interest-Software Engineering-informational?style=flat&logo=none&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Interest-Backend Programming-informational?style=flat&logo=none&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Interest-Machine Learning-informational?style=flat&logo=none&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interest-SoftwareEngineering-informational?style=flat&color=d500f9)
+![](https://img.shields.io/badge/Interest-BackendProgramming-informational?style=flat&color=d500f9)
+![](https://img.shields.io/badge/Interest-MachineLearning-informational?style=flat&color=d500f9)
 
