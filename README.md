@@ -32,4 +32,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/Code-Android-informational?style=flat&logo=Android&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interest-Software Engineering-informational?style=flat&logo=none&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interest-Backend Programming-informational?style=flat&logo=none&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Interest-Machine Learning-informational?style=flat&logo=none&logoColor=white&color=2bbc8a)
+
