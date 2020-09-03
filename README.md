@@ -17,6 +17,23 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ciro-Gallo&count_private=true&show_icons=true&bg_color=10,042698,2accff&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 <br><hr>
 
+<!-- Actual text -->
+
+[![Twitter][1.2]][1]
+[![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://www.flaticon.com/free-icon/facebook_124010
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
+
+<br><hr>
+
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
