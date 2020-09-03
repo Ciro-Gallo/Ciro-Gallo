@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/Ciro-Gallo/Ciro-Gallo/blob/master/GitHubProfileWide.png "Header")](https://cirogallo.com/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ciro-Gallo&count_private=true&show_icons=true&bg_color=10,042698,2accff&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-<br><hr>
+
+<br>
+<h2>Social</h2>
 
 <!-- Actual text -->
 
@@ -39,7 +41,8 @@ Here are some ideas to get you started:
 [3]: https://www.youtube.com/channel/UCYouDmkieWuAV_jRVf_TjBQ
 [4]: https://www.linkedin.com/in/ciro-gallo-bb628a1ab/
 
-<br><hr>
+<br>
+<h2>Some badges (everyone loves badges!)</h2>
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a) 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
@@ -59,4 +62,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Interest-SoftwareEngineering-informational?style=flat&color=d500f9)
 ![](https://img.shields.io/badge/Interest-BackendProgramming-informational?style=flat&color=d500f9)
 ![](https://img.shields.io/badge/Interest-MachineLearning-informational?style=flat&color=d500f9)
+
+<br>
+<h2>About me</h2>
+My name is Ciro Gallo, I am 22 years old and I am graduating in Computer Science (L-31) at the University of Naples Federico II: I have completed all the exams and I am currently engaged in an internship, precisely on a project related to Machine Learning.
 
