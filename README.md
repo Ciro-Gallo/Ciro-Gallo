@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+
+![](https://img.shields.io/badge/Framework-Spring Boot-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring Boot-informational?style=flat&logo=Spring&logoColor=white&color=2bbc8a)
+
+
+![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
