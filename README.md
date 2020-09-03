@@ -66,7 +66,5 @@ Here are some ideas to get you started:
 <br>
 <h2>About me</h2>
 My name is Ciro Gallo, I am 22 years old and I am graduating in Computer Science (L-31) at the University of Naples Federico II: I have completed all the exams and I am currently engaged in an internship, precisely on a project related to Machine Learning.<br>
-Feel free to visit 
-![my website](https://cirogallo.com/ "my website") 
-for more information about me.
+Feel free to visit https://cirogallo.com/ for more information about me.
 
