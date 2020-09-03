@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/Ciro-Gallo/Ciro-Gallo/blob/master/GitHubProfile.png "Header")](https://cirogallo.com/)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Ciro-Gallo&count_private=true&show_icons=true&bg_color=10,042698,2accff&icon_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-<hr>
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a)
+<br><hr>
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=2bbc8a) 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
