@@ -1,3 +1,14 @@
+<h1>About me</h1>
+<p style="text-align: justify;">
+My name is Ciro Gallo, I am 26 years old and in 2020 I graduated with honors in Computer Science (class N.L-31) at the University of Naples Federico II with the thesis "Sentiment analysis using the support of an artificial neural network". Having started working as a software developer a few months before I graduated, I have now totaled 5 years of work experience in the industry.
+<br/><br/>
+Passionate about personal finance, music lover, and chronic optimist, I make positivity and proactivity the constant mark of my actions in life and work.
+<br/><br/>
+Feel free to visit https://gciro.it/ for more information about me.
+</p>
+
+<br/><br/>
+
 <!--
 **Ciro-Gallo/Ciro-Gallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -62,9 +73,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Interest-SoftwareEngineering-informational?style=flat&color=d500f9)
 ![](https://img.shields.io/badge/Interest-BackendProgramming-informational?style=flat&color=d500f9)
 ![](https://img.shields.io/badge/Interest-MachineLearning-informational?style=flat&color=d500f9)
-
-<br>
-<h2>About me</h2>
-My name is Ciro Gallo, I am 22 years old and I am graduating in Computer Science (L-31) at the University of Naples Federico II: I have completed all the exams and I am currently engaged in an internship, precisely on a project related to Machine Learning.<br>
-Feel free to visit https://cirogallo.com/ for more information about me.
 
